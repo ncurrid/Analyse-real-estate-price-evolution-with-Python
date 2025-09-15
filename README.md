@@ -1,6 +1,6 @@
 # Analysis of real estate price evolution with Python
 # I. Context
-As part of a consulting mission, I worked as a Business Intelligence Analyst for Les Plus Beaux Logis de Paris, a prestigious B2B and B2C real estate company based in Paris.
+As part of a consulting mission, I worked as a Business Intelligence Analyst for _Les Plus Beaux Logis de Paris_, a prestigious B2B and B2C real estate company based in Paris.
 
 Due to financial constraints, this family-owned firm needed to sell some of its real estate assets to maintain a sufficient level of cash flow. However, internal conflict arose: the CEO’s children (his son managing the private residential segment and his daughter managing the corporate real estate portfolio) strongly opposed selling their respective properties.
 
@@ -50,10 +50,10 @@ Delivered a comprehensive report including:
 
 # III. Tools used
 
-Anaconda Navigator: Environment management
+**Anaconda Navigator**: Environment management
 
-Jupyter Notebook: Interactive data analysis and prototyping
+**Jupyter Noteboo**k: Interactive data analysis and prototyping
 
-Python with: Pandas (data manipulation), Matplotlib (data visualisation), Scikit-Learn (machine learning : linear Regression, K-Means)
+**Python** with: Pandas (data manipulation), Matplotlib (data visualisation), Scikit-Learn (machine learning : linear Regression, K-Means)
 
-Microsoft PowerPoint: Final presentation and reporting
+**Microsoft PowerPoint**: Final presentation and reporting
